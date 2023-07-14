@@ -25,7 +25,7 @@ fly deploy
 5. Vamos a inserir la variable de entorno en fly.io
 
 ```sh
-fly pg attach NOMBRE_DEL_SERVIDOR
+fly pg attach NOMBRE_DE_BBDD
 ```
 
 ### Poner atención a los siguientes puntos:
