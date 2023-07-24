@@ -13,7 +13,7 @@ fly pg create --name DATABASE_NAME --region cdg
 4. Crear un servicio para la aplicación con este script:
 
 ```sh
-fly deploy
+fly launch
 ```
 
 5. Vamos a subir la aplicación a fly.io
